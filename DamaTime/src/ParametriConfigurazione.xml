@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ParametriConfigurazione
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+    <coloreSfondo>LIGHTGREY</coloreSfondo>
+    <fontTitolo>Arial</fontTitolo>
+    <fontScritte>Algerian</fontScritte>
+    <IPServer>localhost</IPServer>
+    <portaServer>8000</portaServer>
+    <IPClient>localhost</IPClient>
+    <numeroRigheTabella>5</numeroRigheTabella>
+    <valoreInizialeTimer unitaMisura="min">
+        <tempo>10</tempo>
+    </valoreInizialeTimer>
+    <dataPartenza>2018-01-22</dataPartenza>
+    <colorePedinaDaMuovere>GREEN</colorePedinaDaMuovere>
+    <colorePedinaInCuiMuovere>LIGHTGREEN</colorePedinaInCuiMuovere>
+    <colorePedinaMangiata>RED</colorePedinaMangiata>
+    <isPartitaOnline>false</isPartitaOnline>
+    <coloreGiocatoreLocale>nero</coloreGiocatoreLocale>
+
+</ParametriConfigurazione>
